@@ -35,8 +35,8 @@
       <associationMoniker Id="f0d0b716-3468-4b1e-9934-44affccc9c97" />
       <relativeChildShapes />
       <moveableDecoratorHostShapes>
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="1.5763888880610466, 4.6875, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="1.2832702157660634, 5.194444440305233, 0.125, 0.1341145783662796" shapeFieldName="TargetRoleName" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="1.58333333209157, 4.6875, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="1.2902146597965867, 5.194444440305233, 0.125, 0.1341145783662796" shapeFieldName="TargetRoleName" />
       </moveableDecoratorHostShapes>
       <nodes>
         <classShapeMoniker Id="298d8fc5-c278-4a6d-b8e2-376fa39567b4" />
@@ -54,8 +54,8 @@
       <associationMoniker Id="a8044a3a-deae-4682-9c41-eae96fd79a61" />
       <relativeChildShapes />
       <moveableDecoratorHostShapes>
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="1.686468337001902, 4.6944444403052294, 0.125, 0.1341145783662796" shapeFieldName="SourceRoleName" />
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="2.0138888880610466, 4.6875, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="1.6934127810324253, 4.6944444403052294, 0.125, 0.1341145783662796" shapeFieldName="SourceRoleName" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="2.02083333209157, 4.6875, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
       </moveableDecoratorHostShapes>
       <nodes>
         <classShapeMoniker Id="298d8fc5-c278-4a6d-b8e2-376fa39567b4" />
@@ -92,8 +92,8 @@
       <associationMoniker Id="197ebb89-5ccc-4b8f-941b-f372eebd0ea4" />
       <relativeChildShapes />
       <moveableDecoratorHostShapes>
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="6.0763888880610466, 12.625, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="7.0761022973579522, 6.9689669857422576, 0.125, 0.14800345897674561" shapeFieldName="TargetMultiplicity" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="6.1319444440305233, 12.625, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="7.0830467413884755, 6.9689669857422576, 0.125, 0.14800345897674561" shapeFieldName="TargetMultiplicity" />
       </moveableDecoratorHostShapes>
       <nodes>
         <classShapeMoniker Id="07ff095a-5da9-44e8-905d-dbd6a20b1c00" />
@@ -187,7 +187,7 @@
       <associationMoniker Id="b086e95b-c65a-434e-b6fd-48c1f1ff5b73" />
       <relativeChildShapes />
       <moveableDecoratorHostShapes>
-        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="6.1388888880610466, 13.0625, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="6.14583333209157, 13.0625, 0.125, 0.14800345897674561" shapeFieldName="SourceMultiplicity" />
         <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="15.125, 7, 0.23137296736240387, 0.14800345897674561" shapeFieldName="TargetMultiplicity" />
       </moveableDecoratorHostShapes>
       <nodes>
